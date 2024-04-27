@@ -34,7 +34,7 @@ From your terminal or command prompt for windows, run the command ```pip install
     to that directory and run the command above
     For Linux and Mac OS X
     > Open terminal from the directory with youtubedownloader.py or navigate to it with your terminal and
-    run the command ``python youtubedownloader.py```
+    run the command ```python youtubedownloader.py```
 6. You shall be prompted to enter the playlist url, past it there
 7. You shall be prompted to add the directory to save the videos to, **Note** that to save the videos in
 the same diretory as the program start the directory with ```./``` for relative paths.
